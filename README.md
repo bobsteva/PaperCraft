@@ -2,6 +2,7 @@
 
 This is the public repository for [PaperCraft](https://play.google.com/store/apps/details?id=cordproject.lol.papercraft), a Material Design inspired space shooter for your Android Wear watch.
 Now officially an Android Experiment :)
+~This project was my first real touch of seeing how experiments in android and Java in general can be fun and exciting. 
 
 ##Overview
 
